@@ -11,9 +11,10 @@ Perform the ETL (Extract, Transform, and Load) process on a crowdfunding dataset
 # # Instructions 
 1. Create the Category and Subcategory DataFrames (Cadeem and Suad)
 2. Create the Campaign DataFrame (Cadeem)
-3. Create the Contacts DataFrame (Suad)
+3. Create the Contacts DataFrame (Suad). Bonus option 2  (Cadeem and Suad)
 4. Create the Crowdfunding Database (Cadeem and Suad)
 5. README.md (Cadeem and Suad)
+
 
 ## Resources
 Anaconda, VS Code, Python, Pandas, Jupyter Notebook, SQL, QuickDBD, PostgresSQL database. 
