@@ -18,7 +18,7 @@ Perform the ETL (Extract, Transform, and Load) process on a crowdfunding dataset
 ## Solutions
 <img src="Crowdfunding\Resources\cat_df.png">
 <img src="Crowdfunding\Resources\subcat_df.png" width="900px">
-<img src="Crowdfunding\Resources\cat_subcat_df.png" width="900px">
+<img src="Crowdfunding\Resources\campaign_df.png" width="900px">
 <img src="Crowdfunding\Resources\contacts_df.png" width="900px">
 
 
