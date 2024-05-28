@@ -38,12 +38,16 @@ For campaign dataframe:
 
 4. Export dataframes as csv files using df.to_csv("")
 
-5. To create the crowfunding database you can use sqlalchemy or postgres. 
+5. Refer to the sketched ERD of the tables 
+<img src="Crowdfunding/crowdfunding_erd.png" width="900px">
 
+6. To create the crowfunding database you can use sqlalchemy or postgres. 
 
-## Solutions
+crowdfunding schema
+<img src="Crowdfunding/Resources/crowdfunding_db_schema_sql.png" width="900px">
 
-
+from schema create crowdfunding database
+<img src="Crowdfunding/Resources/crowdfunding_db_sql.png" width="900px">
 
 
 
@@ -53,3 +57,4 @@ Anaconda, VS Code, Python, Pandas, Jupyter Notebook, SQL, QuickDBD, PostgresSQL 
 crowdfunding.xlsx, contacts.xlsx
 
 
+References : University of Toronto Bootcamp Feb 2024
